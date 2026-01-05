@@ -46,6 +46,19 @@ XAMPP · Postman · VS Code
 **Tech stack:** Node.js · Express · HTML · CSS · Handlebars · MySQL · Firebase 
 ---
 
+## 💼 Internships
+
+## 💼 Internships
+
+- **Sotetel (January 2024, 1 month)** – Initiation Stage  
+  *Worked in the Fiber Optics team; familiarization with IT operations and infrastructure.*  
+
+- **CNSTN (January 2026, 1 month)** – Professionalization Stage  
+  Worked in the Media and Networks Department.  
+  Gained hands-on experience in web development, backend integration, and internal IT workflows.
+
+---
+
 ## 📜 Education
 🎓 **Licence en Technologie Informatique**  
 Specialty: Information Systems Development  
