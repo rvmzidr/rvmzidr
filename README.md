@@ -48,8 +48,6 @@ XAMPP · Postman · VS Code
 
 ## 💼 Internships
 
-## 💼 Internships
-
 - **Sotetel (January 2024, 1 month)** – Initiation Stage  
   *Worked in the Fiber Optics team; familiarization with IT operations and infrastructure.*  
 
